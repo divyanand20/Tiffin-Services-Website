@@ -1,0 +1,10 @@
+.navbar{
+	display: flex;
+	flex:1;
+	flex-direction: row;
+	justify-content: center;
+	text-align: center;
+}
+.log{
+	margin-left:1033px;
+}

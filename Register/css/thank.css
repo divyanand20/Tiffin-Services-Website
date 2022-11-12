@@ -1,0 +1,24 @@
+body{
+	background: url("../../assets/img/thanks1.jpg");
+	background-size: cover;
+	width: 90%;
+	height: 93vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: black;
+	        font-family: 'Ubuntu', sans-serif;
+
+}
+
+.thanks{
+	color:white;
+	width: 50%;
+	height: 93vh;
+	margin-left: 20px ;
+	background-color: rgb(0,0,0,0.3);
+
+}
+
+.thanks h1{
+	font-size: 50px;
+}
